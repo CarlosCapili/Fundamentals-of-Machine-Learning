@@ -1,7 +1,6 @@
 # Fundamentals-of-Machine-Learning
 
-Training set consists of 10 randomly generated samples 
-Validation set consists of 100 randomly generated samples
+Training set consists of 10 randomly generated samples and validation set consists of 100 randomly generated samples
 
 Goal of this is to train models with increasing model capacity using least squares method and when overfitting occurs, regularization.
 
